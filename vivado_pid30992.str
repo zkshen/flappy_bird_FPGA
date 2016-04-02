@@ -1,0 +1,220 @@
+/*
+
+Vivado v2014.4 (64-bit)
+SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+Process ID: 30992
+
+Current time: 	11/26/15 7:17:03 PM
+Time zone: 	China Standard Time (Asia/Shanghai)
+
+OS: Windows 8
+Version: 6.2
+Architecture: amd64
+Available processors (cores): 4
+
+Screen size: 1366x768
+Screen resolution (DPI): 96
+Available screens: 1
+
+Java version: 	1.8.0_05 64-bit
+Java home: 	D:/vivado/Vivado/2014.4/tps/win64/jre
+
+User name: 	jiangmoquan
+User directory: C:/Users/jiangmoquan/Desktop/project_2
+User country: 	CN
+User language: 	zh
+User locale: 	zh_CN
+Vivado preferences path: C:/Users/jiangmoquan/AppData/Roaming/Xilinx/Vivado/2014.4/vivado.ini
+Vivado layouts directory: C:/Users/jiangmoquan/AppData/Roaming/Xilinx/Vivado/2014.4/layouts/application
+
+GUI allocated memory:	149 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 390 MB
+
+*/
+
+// TclEventType: START_GUI
+// HColorUtils.generateUniqueColorPalette (num colors: 55) elapsed time: 1.4s
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// cm:N (ch:JFrame):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// Tcl Message: open_project C:/Users/jiangmoquan/Desktop/project_2/project_2.xpr 
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// [GUI Memory]: 36 MB (+35370kb) [00:00:11]
+// [Engine Memory]: 383 MB (+250100kb) [00:00:11]
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 44 MB (+8601kb) [00:00:14]
+// [Engine Memory]: 423 MB (+42471kb) [00:00:14]
+// [Engine Memory]: 443 MB (+20197kb) [00:00:15]
+// [Engine Memory]: 455 MB (+12513kb) [00:00:19]
+// [GUI Memory]: 57 MB (+13583kb) [00:00:22]
+// [Engine Memory]: 472 MB (+18432kb) [00:00:22]
+// [GUI Memory]: 58 MB (+271kb) [00:00:22]
+// [Engine Memory]: 475 MB (+2797kb) [00:00:23]
+// Tcl Message: open_project C:/Users/jiangmoquan/Desktop/project_2/project_2.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivado/Vivado/2014.4/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 479 MB. GUI used memory: 35 MB. Current time: 11/26/15 7:17:15 PM
+// [Engine Memory]: 487 MB (+12296kb) [00:00:25]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 58 MB (+342kb) [00:00:26]
+// [GUI Memory]: 58 MB (+651kb) [00:00:26]
+// [GUI Memory]: 59 MB (+683kb) [00:00:26]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 60 MB (+651kb) [00:00:26]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 60 MB (+685kb) [00:00:26]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 62 MB (+1302kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 62 MB (+683kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 63 MB (+653kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 64 MB (+683kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 64 MB (+651kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 65 MB (+683kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [Engine Memory]: 488 MB (+1486kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [Engine Memory]: 488 MB (+53kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [Engine Memory]: 489 MB (+704kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [Engine Memory]: 489 MB (+40kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Project name: project_2; location: C:/Users/jiangmoquan/Desktop/project_2; part: xc7a35tcpg236-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:39 ; elapsed = 00:00:18 . Memory (MB): peak = 770.828 ; gain = 170.371 
+dismissDialog("Open Project"); // cm:N (ch:JFrame)
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// Elapsed time: 11 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Coefficient Files]", 4); // u:k (I:JPanel, ch:JFrame)
+// [Engine Memory]: 490 MB (+1019kb) [00:00:41]
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Coefficient Files]", 4); // u:k (I:JPanel, ch:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, top (top.v)]", 1); // u:k (I:JPanel, ch:JFrame)
+// [Engine Memory]: 490 MB (+73kb) [00:00:46]
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, top (top.v)]", 1); // u:k (I:JPanel, ch:JFrame)
+// PAPropertyPanels.initPanels (top.v) elapsed time: 0.2s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, top (top.v)]", 1, true); // u:k (I:JPanel, ch:JFrame) - Node
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, top (top.v)]", 1); // u:k (I:JPanel, ch:JFrame)
+// [Engine Memory]: 490 MB (+413kb) [00:00:52]
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, top (top.v), calculateXY_unit - calculateXY (calculateXY.v)]", 10, false); // u:k (I:JPanel, ch:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, top (top.v), calculateXY_unit - calculateXY (calculateXY.v)]", 10, false); // u:k (I:JPanel, ch:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, top (top.v), calculateXY_unit - calculateXY (calculateXY.v)]", 10, false, false, false, false, false, true); // u:k (I:JPanel, ch:JFrame) - Double Click
+// [Engine Memory]: 491 MB (+491kb) [00:00:58]
+// [Engine Memory]: 491 MB (+364kb) [00:00:58]
+selectCodeEditor("calculateXY.v", 203, 204); // bi:J (JPanel:JComponent, ch:JFrame)
+selectCodeEditor("calculateXY.v", 197, 202); // bi:J (JPanel:JComponent, ch:JFrame)
+// [Engine Memory]: 497 MB (+6725kb) [00:01:13]
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 36 MB. Current time: 11/26/15 7:18:05 PM
+// [GUI Memory]: 65 MB (+75kb) [00:09:17]
+// [GUI Memory]: 65 MB (+29kb) [00:09:22]
+// [GUI Memory]: 65 MB (+111kb) [00:09:27]
+// [GUI Memory]: 66 MB (+714kb) [00:09:32]
+// [GUI Memory]: 66 MB (+109kb) [00:09:37]
+// [GUI Memory]: 66 MB (+27kb) [00:09:42]
+// [GUI Memory]: 66 MB (+107kb) [00:09:47]
+// [GUI Memory]: 67 MB (+716kb) [00:09:52]
+// [GUI Memory]: 67 MB (+111kb) [00:09:57]
+// [GUI Memory]: 67 MB (+27kb) [00:10:02]
+// [GUI Memory]: 67 MB (+109kb) [00:10:07]
+// [GUI Memory]: 68 MB (+716kb) [00:10:12]
+// [GUI Memory]: 68 MB (+109kb) [00:10:17]
+// [GUI Memory]: 68 MB (+27kb) [00:10:22]
+// [GUI Memory]: 68 MB (+107kb) [00:10:27]
+// [GUI Memory]: 68 MB (+718kb) [00:10:32]
+// [GUI Memory]: 69 MB (+393kb) [00:21:57]
+// [GUI Memory]: 69 MB (+30kb) [00:22:02]
+// [GUI Memory]: 69 MB (+130kb) [00:22:07]
+// [GUI Memory]: 69 MB (+28kb) [00:22:12]
+// [GUI Memory]: 70 MB (+795kb) [00:22:17]
+// [GUI Memory]: 70 MB (+23kb) [00:22:22]
+// [GUI Memory]: 70 MB (+112kb) [00:22:27]
+// [GUI Memory]: 70 MB (+23kb) [00:22:32]
+// [GUI Memory]: 71 MB (+817kb) [00:22:38]
+// [GUI Memory]: 71 MB (+23kb) [00:22:43]
+// [GUI Memory]: 71 MB (+115kb) [00:22:48]
+// [GUI Memory]: 71 MB (+23kb) [00:22:53]
+// [GUI Memory]: 72 MB (+795kb) [00:22:58]
+// [GUI Memory]: 72 MB (+43kb) [00:23:03]
+// [GUI Memory]: 72 MB (+112kb) [00:23:08]
+// [GUI Memory]: 72 MB (+25kb) [00:23:13]
+// [GUI Memory]: 73 MB (+795kb) [00:23:18]
+// [GUI Memory]: 73 MB (+26kb) [00:23:23]
+// [GUI Memory]: 73 MB (+132kb) [00:23:28]
+// [GUI Memory]: 73 MB (+23kb) [00:23:33]
+// [GUI Memory]: 73 MB (+630kb) [00:23:38]
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 37 MB. Current time: 11/26/15 7:48:11 PM
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 34 MB. Current time: 11/26/15 9:56:09 PM
+// [GUI Memory]: 74 MB (+208kb) [03:05:42]
+// [GUI Memory]: 74 MB (+163kb) [03:05:47]
+// [GUI Memory]: 74 MB (+10kb) [03:05:52]
+// [GUI Memory]: 74 MB (+108kb) [03:05:57]
+// [GUI Memory]: 74 MB (+692kb) [03:06:02]
+// [GUI Memory]: 75 MB (+111kb) [03:06:07]
+// [GUI Memory]: 75 MB (+59kb) [03:06:12]
+// [GUI Memory]: 75 MB (+111kb) [03:06:17]
+// [GUI Memory]: 75 MB (+692kb) [03:06:22]
+// [GUI Memory]: 75 MB (+111kb) [03:06:27]
+// [GUI Memory]: 76 MB (+10kb) [03:06:32]
+// [GUI Memory]: 76 MB (+163kb) [03:06:37]
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 33 MB. Current time: 11/26/15 10:26:08 PM
+// [GUI Memory]: 76 MB (+594kb) [03:36:59]
+// [GUI Memory]: 76 MB (+122kb) [03:37:04]
+// [GUI Memory]: 76 MB (+68kb) [03:37:09]
+// [GUI Memory]: 77 MB (+684kb) [03:37:14]
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 33 MB. Current time: 11/26/15 10:56:07 PM
+// [GUI Memory]: 77 MB (+216kb) [04:07:32]
+// [GUI Memory]: 77 MB (+130kb) [04:07:37]
+// [GUI Memory]: 78 MB (+832kb) [04:07:47]
+// [GUI Memory]: 78 MB (+8kb) [04:07:52]
+// [GUI Memory]: 78 MB (+132kb) [04:07:57]
+// [GUI Memory]: 78 MB (+88kb) [04:08:02]
+// [GUI Memory]: 79 MB (+744kb) [04:08:07]
+// [GUI Memory]: 79 MB (+5kb) [04:08:12]
+// [GUI Memory]: 79 MB (+130kb) [04:08:17]
+// [GUI Memory]: 79 MB (+88kb) [04:08:22]
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 33 MB. Current time: 11/26/15 11:26:06 PM
+// [GUI Memory]: 80 MB (+501kb) [04:38:48]
+// [GUI Memory]: 80 MB (+82kb) [04:38:53]
+// [GUI Memory]: 80 MB (+134kb) [04:38:58]
+// [GUI Memory]: 80 MB (+6kb) [04:39:03]
+// [GUI Memory]: 81 MB (+764kb) [04:39:08]
+// [GUI Memory]: 81 MB (+84kb) [04:39:13]
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 33 MB. Current time: 11/26/15 11:56:07 PM
+// [GUI Memory]: 81 MB (+187kb) [04:57:58]
+// [GUI Memory]: 81 MB (+11kb) [04:58:03]
+// [GUI Memory]: 81 MB (+170kb) [04:58:08]
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 35 MB. Current time: 11/27/15 12:26:08 AM
+// [GUI Memory]: 81 MB (+263kb) [05:24:26]
+// [GUI Memory]: 81 MB (+9kb) [05:24:31]
+// [GUI Memory]: 82 MB (+219kb) [05:24:36]
+// [GUI Memory]: 82 MB (+224kb) [05:38:11]
+// [GUI Memory]: 82 MB (+170kb) [05:38:16]
+// [GUI Memory]: 82 MB (+75kb) [05:38:21]
+// [GUI Memory]: 82 MB (+176kb) [05:38:26]
+// [GUI Memory]: 83 MB (+659kb) [05:38:31]
+// [GUI Memory]: 83 MB (+239kb) [05:38:36]
+// [GUI Memory]: 83 MB (+10kb) [05:38:41]
+// [GUI Memory]: 83 MB (+170kb) [05:38:46]
+// [GUI Memory]: 84 MB (+720kb) [05:38:51]
+// [GUI Memory]: 84 MB (+172kb) [05:38:57]
+// [GUI Memory]: 84 MB (+12kb) [05:39:02]
+// [GUI Memory]: 84 MB (+164kb) [05:39:07]
+// [GUI Memory]: 85 MB (+734kb) [05:39:12]
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 36 MB. Current time: 11/27/15 12:56:09 AM
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 36 MB. Current time: 11/27/15 1:26:07 AM
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 36 MB. Current time: 11/27/15 1:56:08 AM
+// HMemoryUtils.trashcanNow. Engine heap size: 497 MB. GUI used memory: 35 MB. Current time: 11/27/15 2:26:08 AM
