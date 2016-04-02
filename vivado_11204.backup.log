@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Thu Nov 26 19:16:45 2015
+# Process ID: 30992
+# Log file: C:/Users/jiangmoquan/Desktop/project_2/vivado.log
+# Journal file: C:/Users/jiangmoquan/Desktop/project_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/jiangmoquan/Desktop/project_2/project_2.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivado/Vivado/2014.4/data/ip'.
+open_project: Time (s): cpu = 00:00:39 ; elapsed = 00:00:18 . Memory (MB): peak = 770.828 ; gain = 170.371
